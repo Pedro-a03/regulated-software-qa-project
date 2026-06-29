@@ -9,6 +9,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![ISO 13485](https://img.shields.io/badge/ISO_13485-Compliant-blue?style=flat-square)
 ![EU MDR](https://img.shields.io/badge/EU_MDR-2017%2F745-green?style=flat-square)
+![CI](https://github.com/Pedro-a03/regulated-software-qa-project/actions/workflows/qa-tests.yml/badge.svg)
 
 ---
 
