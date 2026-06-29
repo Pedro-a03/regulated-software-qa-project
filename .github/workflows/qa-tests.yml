@@ -30,7 +30,7 @@ jobs:
 
       - name: Run pytest - QualityHub eQMS API Tests
         run: |
-          pytest api_tests/ -v --tb=short \
+          python -m pytest api_tests/ -v --tb=short \
             --html=reports/test_report.html \
             --self-contained-html
 
